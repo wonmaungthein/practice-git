@@ -1,1 +1,1 @@
-My name is "Won Maung Thein";
+console.log( "Won Maung Thein");
