@@ -1,5 +1,7 @@
 # practice-git
 
 Mozafar
-Khaled 
+
+Khaled Ali
+
 Updated readme
